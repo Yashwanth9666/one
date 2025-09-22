@@ -827,7 +827,8 @@
     <section class="hero">
         <div class="hero-content">
             <h1>summer Collection 2eee5</h1>
-            <p>Discover the latest trends in fashion, technology and accessories with up to 50% off selected items</p>
+            <p>Discover the latest trends in fashion, technology and accessories with up to 50% off selected items </p>
+            <h1> yash technologies <h1>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
                 <a href="#" class="btn btn-secondary">Explore Deals</a>
